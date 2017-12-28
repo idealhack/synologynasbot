@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Simple Bot for creating Synology NAS download task."""
+"""A Telegram bot for Synology NAS"""
 
 import logging
 import os

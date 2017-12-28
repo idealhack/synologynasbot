@@ -1,0 +1,7 @@
+{
+  "name": "Synology NAS Bot",
+  "description": "A Telegram bot for Synology NAS",
+  "repository": "https://github.com/idealhack/synologynasbot",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  "keywords": ["bot", "telegram", "synology", "nas"]
+}
