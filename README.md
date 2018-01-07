@@ -6,6 +6,8 @@
 
 - Create download tasks
 
+Note: this bot should be full featured later by wrapping Synology’s CGI-based API, though it’s OK to use it now.
+
 ## Usage
 
 1. [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/idealhack/synologynasbot)
@@ -21,7 +23,7 @@
 
 ## See also
 
-Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
+[moviemagnetbot](https://github.com/idealhack/moviemagnetbot): Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
 
 ## Troubleshooting
 
@@ -29,4 +31,4 @@ Open your Heroku app **View logs** page, see what’s going on.
 
 ## Contributing
 
-Features? Bugs? Issues and Pull requests are welcome.
+Bugs? Features? Issues and pull requests are welcome.
