@@ -21,7 +21,7 @@
 
 ## See also
 
-Search magnet links for movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
+Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
 
 ## Troubleshooting
 
