@@ -23,7 +23,7 @@ Note: this bot should be full featured later by wrapping Synology’s CGI-based 
 
 ## See also
 
-[moviemagnetbot](https://github.com/idealhack/moviemagnetbot): Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
+[moviemagnetbot](https://github.com/magunetto/moviemagnetbot): Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
 
 ## Troubleshooting
 
