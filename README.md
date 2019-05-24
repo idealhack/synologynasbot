@@ -21,9 +21,9 @@ Note: this bot should be full featured later by wrapping Synology’s CGI-based 
 1. Open your Heroku app **Resources** page, make sure the bot is running.
 1. Talk to your lovely bot, it’s all yours.
 
-## See also
+## Alternatives
 
-[moviemagnetbot](https://github.com/magunetto/moviemagnetbot): Search and download movies by sending [@moviemagnetbot](https://t.me/moviemagnetbot) IMDb links.
+[moviemagnetbot](https://github.com/magunetto/moviemagnetbot): create (Magnet/eD2k/FTP) download tasks by RSS feed
 
 ## Troubleshooting
 
